@@ -1,2 +1,2 @@
-# TechM-Coe
+# TechM-Coe Training
 Daily Tasks
