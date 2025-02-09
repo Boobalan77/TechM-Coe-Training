@@ -1,2 +1,2 @@
 # TechM-Coe Training
-Daily Tasks
+Weekly Task-1 and Weekly Task-2 Updated.
