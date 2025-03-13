@@ -1,0 +1,142 @@
+[
+    {
+        "id": 1,
+        "title": "The Power of Habit",
+        "author": "Charles Duhigg",
+        "genre": "Self-Help",
+        "publishedYear": 2012
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Fiction",
+        "publishedYear": 1960
+    },
+    {
+        "id": 3,
+        "title": "Sapiens: A Brief History of Humankind",
+        "author": "Yuval Noah Harari",
+        "genre": "History",
+        "publishedYear": 2011
+    },
+    {
+        "id": 4,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Fiction",
+        "publishedYear": 1949
+    },
+    {
+        "id": 5,
+        "title": "The Subtle Art of Not Giving a F*ck",
+        "author": "Mark Manson",
+        "genre": "Self-Help",
+        "publishedYear": 2016
+    },
+    {
+        "id": 6,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Fiction",
+        "publishedYear": 1925
+    },
+    {
+        "id": 7,
+        "title": "Guns, Germs, and Steel",
+        "author": "Jared Diamond",
+        "genre": "History",
+        "publishedYear": 1997
+    },
+    {
+        "id": 8,
+        "title": "Thinking, Fast and Slow",
+        "author": "Daniel Kahneman",
+        "genre": "Self-Help",
+        "publishedYear": 2011
+    },
+    {
+        "id": 9,
+        "title": "Brave New World",
+        "author": "Aldous Huxley",
+        "genre": "Fiction",
+        "publishedYear": 1932
+    },
+    {
+        "id": 10,
+        "title": "The Art of War",
+        "author": "Sun Tzu",
+        "genre": "History",
+        "publishedYear": -500
+    },
+    {
+        "id": 11,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Fiction",
+        "publishedYear": 1951
+    },
+    {
+        "id": 12,
+        "title": "Man's Search for Meaning",
+        "author": "Viktor E. Frankl",
+        "genre": "Self-Help",
+        "publishedYear": 1946
+    },
+    {
+        "id": 13,
+        "title": "The Diary of a Young Girl",
+        "author": "Anne Frank",
+        "genre": "History",
+        "publishedYear": 1947
+    },
+    {
+        "id": 14,
+        "title": "Moby-Dick",
+        "author": "Herman Melville",
+        "genre": "Fiction",
+        "publishedYear": 1851
+    },
+    {
+        "id": 15,
+        "title": "How to Win Friends and Influence People",
+        "author": "Dale Carnegie",
+        "genre": "Self-Help",
+        "publishedYear": 1936
+    },
+    {
+        "id": 16,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fiction",
+        "publishedYear": 1937
+    },
+    {
+        "id": 17,
+        "title": "The Wright Brothers",
+        "author": "David McCullough",
+        "genre": "History",
+        "publishedYear": 2015
+    },
+    {
+        "id": 18,
+        "title": "The 7 Habits of Highly Effective People",
+        "author": "Stephen R. Covey",
+        "genre": "Self-Help",
+        "publishedYear": 1989
+    },
+    {
+        "id": 19,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Fiction",
+        "publishedYear": 1813
+    },
+    {
+        "id": 20,
+        "title": "The History of the Ancient World",
+        "author": "Susan Wise Bauer",
+        "genre": "History",
+        "publishedYear": 2007
+    }
+]
