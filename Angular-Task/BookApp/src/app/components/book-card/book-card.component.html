@@ -1,0 +1,17 @@
+<div class="book-card">
+<h3>{{ book.title }}</h3>
+<p>{{ book.author }}</p>
+<p>{{ book.genre }}</p>
+<p>{{ book.rating }}</p>
+
+<!-- Ratings Section -->
+<div class="ratings">
+  <span *ngFor="let star of getStars(); let i = index" 
+        [class.filled]="i < book.rating">★</span>
+</div>
+
+<div class="actions">
+  <button [routerLink]="['/edit', book.id]">Edit</button>
+  <button (click)="onDelete()">Delete</button>
+</div>
+</div>

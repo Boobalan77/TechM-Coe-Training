@@ -1,0 +1,26 @@
+<div class="container">
+    <h2>Books List</h2>
+    
+    <div class="controls">
+      <div class="genre-filter">
+        <label for="genre">Filter by Department:</label>
+        <select 
+          id="genre" 
+          [(ngModel)]="selectedgenre"
+          class="genre-select"
+        >
+          <option value="All">All Genre</option>
+          <option *ngFor="let dept of genre">{{ dept }}</option>
+        </select>
+      </div>
+      <button [routerLink]="['/add']" class="btn-add">Add Books</button>
+    </div>
+    
+    <div class="book-grid">
+      <app-book-card
+        *ngFor="let book of books | filterbygenere:selectedgenre"
+        [book]="book"
+        (delete)="onDeleteBook($event)"
+      ></app-book-card>
+    </div>
+  </div>
